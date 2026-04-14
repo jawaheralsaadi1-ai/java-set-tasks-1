@@ -3,6 +3,7 @@
   <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
     <file url="file://$PROJECT_DIR$/src/CheckSetDemo.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/CustomerSetDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/RemoveSetDemo.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/productSetDemo.java" charset="ISO-8859-1" />
   </component>
 </project>
