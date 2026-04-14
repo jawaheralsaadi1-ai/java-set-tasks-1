@@ -12,11 +12,11 @@ public class EmployeeSetDemo {
         empIDs.add("A1004");
         empIDs.add("A1005");
         System.out.println("Task 7 : Origin Set : " + empIDs);
-        empIDs.add("A1002");
-        empIDs.add("A1003");
+        empIDs.add("A1002");//
+        empIDs.add("A1003");///
         System.out.println(" Set After Add 2 duplicate ID : " + empIDs);
         System.out.println(" Set to check 'A1001' excite or not : " + empIDs.contains("A1001"));
-        empIDs.remove("A1003");
+        empIDs.remove("A1003");///
         System.out.println(" Set After Remove 'A1003' ID : " + empIDs);
         System.out.println(" check excite or not After Remove 'A1003' ID : " + empIDs.contains("A1003"));
 
